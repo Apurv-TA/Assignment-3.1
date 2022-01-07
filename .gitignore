@@ -1,0 +1,7 @@
+#ignoring pyc file
+*.pyc 
+
+#ignoring log and databases
+*.log
+*.sql
+*.sqlite
